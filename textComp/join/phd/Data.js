@@ -13,8 +13,7 @@ const Data = () => {
                         research at ScAI.
                     </p>
                     <p>
-                        All engineering students irrespective of their
-                        Bachelors/Masters discipline are welcome to join a Ph.D.
+                        All engineering students are welcome to join a Ph.D.
                         in ScAI. For more information, please refer to the{" "}
                         <a
                             href="/pdf/ScAI-PhD.pdf"
