@@ -8,9 +8,7 @@ const Data = () => {
                     <p>
                         ScAI welcomes applications from strongly motivated
                         students who want to pursue their Ph.D. in the areas of
-                        both core AI and applied AI. Please check our research
-                        and faculty pages for understanding various ongoing
-                        research at ScAI.
+                        both core AI and applied AI. 
                     </p>
                     <p>
                         All engineering students are welcome to join a Ph.D.
